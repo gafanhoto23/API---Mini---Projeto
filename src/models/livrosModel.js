@@ -1,11 +1,11 @@
 const livros = [
     {
         id: 1,
-        titulo: "O Senhor dos Anéis" 
+        titulo: "O foco" 
     },
     {
         id: 2,
-        titulo: "O Hobbit"
+        titulo: "Fundamentos elementar da matemática"
     }
 ];
 

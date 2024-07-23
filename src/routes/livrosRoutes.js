@@ -1,5 +1,5 @@
 import express from 'express';
-import { getAllLivros, getLivroById, createLivro, updateLivro, deleteLivro } from '../controllers/livrosController';
+import { getAllLivros, getLivroById, createLivro, updateLivro, deleteLivro } from '../controllers/livrosController.js';
 
 const router = express.Router();
 
